@@ -6,3 +6,5 @@ Integrated Circularity and Sustainability Assessment of Manufacturing Systems (C
 [![JAGS](https://img.shields.io/badge/JAGS-4.3.0+-orange.svg)](https://mcmc-jags.sourceforge.io/)
 [![GAMS](https://img.shields.io/badge/GAMS-40%2B-purple.svg)](https://www.gams.com/)
 [![Build Status](https://img.shields.io/badge/Build-Stable-brightgreen.svg)](https://github.com/yourusername/yourrepo/actions)
+
+A modular, reproducible pipeline for BBWM, PROMETHEE-II, AHP, and AUGMECON2 — designed for integrated circularity and sustainability assessment and trade-off analysis.

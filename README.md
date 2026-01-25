@@ -7,4 +7,21 @@ Integrated Circularity and Sustainability Assessment of Manufacturing Systems (C
 [![GAMS](https://img.shields.io/badge/GAMS-40%2B-purple.svg)](https://www.gams.com/)
 [![Build Status](https://img.shields.io/badge/Build-Stable-brightgreen.svg)](https://github.com/yourusername/yourrepo/actions)
 
+
+
+# 🧠 Multi-Criteria Decision Analysis Toolkit
 A modular, reproducible pipeline for BBWM, PROMETHEE-II, AHP, and AUGMECON2 — designed for integrated circularity and sustainability assessment and trade-off analysis.
+
+## 📦 Overview
+
+This repository provides a unified workflow for multi-criteria decision analysis using four complementary methods:
+
+1. **Bayesian Best–Worst Method (BBWM)** — Python + pyjags (Ubuntu/WSL2)
+2. **PROMETHEE-II** — Independent evaluation of each pillar
+3. **AHP** — Integrated assessment across all pillars
+4. **AUGMECON2** — Trade-off analysis using GAMS
+
+---
+
+## 📁 Repository Structure
+

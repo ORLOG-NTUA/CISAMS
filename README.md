@@ -17,8 +17,8 @@ A modular, reproducible pipeline for BBWM, PROMETHEE-II, AHP, and AUGMECON2 — 
 This repository provides a unified workflow for multi-criteria decision analysis using four complementary methods:
 
 1. **Bayesian Best–Worst Method (BBWM)** — Python + pyjags (Ubuntu/WSL2)
-2. **PROMETHEE-II** — Independent evaluation of each pillar
-3. **AHP** — Integrated assessment across all pillars
+2. **PROMETHEE-II** — Independent evaluation of each pillar using pyDecision package
+3. **AHP** — Integrated assessment across all pillars using pyDecision package
 4. **AUGMECON2** — Trade-off analysis using GAMS
 
 ## 📁 Repository Structure

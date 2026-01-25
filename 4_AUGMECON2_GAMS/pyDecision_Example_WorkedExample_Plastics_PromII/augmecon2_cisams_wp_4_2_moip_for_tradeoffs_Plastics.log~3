@@ -1,0 +1,37 @@
+
+--- Job augmecon2_cisams_wp_4_2_moip_for_tradeoffs_Plastics.gms Start 12/12/25 00:04:29 52.1.0 4f802a74 WEX-WEI x86 64bit/MS Windows
+--- Applying:
+    C:\GAMS\52\gmsprmNT.txt
+    C:\Users\Kostas\Documents\GAMS\gamsconfig.yaml
+--- GAMS Parameters defined
+    MIP CPLEX
+    NLP CONOPT
+    Input C:\Users\Kostas\Documents\JupyterNotebooks\Rentizelas\CISAMS\pyDecision_Example_WorkedExample_Plastics_PromII\AUGMECON2_4_2_gams\augmecon2_cisams_wp_4_2_moip_for_tradeoffs_Plastics.gms
+    PageSize 0
+    Action C
+    ScrDir C:\Users\Kostas\Documents\JupyterNotebooks\Rentizelas\CISAMS\pyDecision_Example_WorkedExample_Plastics_PromII\AUGMECON2_4_2_gams\225a\
+    SysDir C:\GAMS\52\
+    LogOption 3
+    AppendLog 1
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    LstTitleLeftAligned 1
+Licensee: Kostas Florios                                 G251128+0003Ac-GEN
+          cflorios@central.ntua.gr                                CLA114864
+          C:\Users\Kostas\Documents\GAMS\gamslice.txt
+          2306d653-62cf-45c2
+          node:22671403 v:2                                                
+          Community license for demonstration and instructional purposes only
+System information: 4 physical cores and 16 Gb physical memory detected
+GAMS 52.1.0   Copyright (C) 1987-2025 GAMS Development. All rights reserved
+--- Starting compilation
+--- augmecon2_cisams_wp_4_2_moip_for_tradeoffs_Plastics.gms(23) 3 Mb
+--- > z3_18ctt.txt(19) 3 Mb
+--- augmecon2_cisams_wp_4_2_moip_for_tradeoffs_Plastics.gms(26) 3 Mb
+--- > z3_18att.txt(19) 3 Mb
+--- augmecon2_cisams_wp_4_2_moip_for_tradeoffs_Plastics.gms(30) 3 Mb
+--- > z3_18btt.txt(1) 3 Mb
+--- augmecon2_cisams_wp_4_2_moip_for_tradeoffs_Plastics.gms(255) 3 Mb
+*** Status: Normal completion
+--- Job augmecon2_cisams_wp_4_2_moip_for_tradeoffs_Plastics.gms Stop 12/12/25 00:04:29 elapsed 0:00:00.026

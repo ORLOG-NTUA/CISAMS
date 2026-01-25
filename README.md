@@ -21,7 +21,9 @@ This repository provides a unified workflow for multi-criteria decision analysis
 3. **AHP** — Integrated assessment across all pillars
 4. **AUGMECON2** — Trade-off analysis using GAMS
 
----
-
 ## 📁 Repository Structure
+1. **BBWM_python** — Python + pyjags (Ubuntu/WSL2)
+2. **PROMETHEE-II_python** — Independent evaluation of each pillar
+3. **AHP_python** — Integrated assessment across all pillars
+4. **AUGMECON2_GAMS** — Trade-off analysis using GAMS
 

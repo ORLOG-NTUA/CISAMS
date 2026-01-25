@@ -27,3 +27,5 @@ This repository provides a unified workflow for multi-criteria decision analysis
 3. **AHP_python** — Integrated assessment across all pillars
 4. **AUGMECON2_GAMS** — Trade-off analysis using GAMS
 
+## 📦 Funding
+Integrated Circularity and Sustainability Assessment of Manufacturing Systems is carried out within the framework of the National Recovery and Resilience Plan Greece 2.0, funded by the European Union – NextGenerationEU (Implementation body: HFRI | Project Number: 16148).

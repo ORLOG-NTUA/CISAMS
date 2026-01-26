@@ -10,7 +10,7 @@ Integrated Circularity and Sustainability Assessment of Manufacturing Systems (C
 
 
 # 🧠 Multi-Criteria Decision Analysis Toolkit
-A modular, reproducible pipeline for BBWM, PROMETHEE-II, AHP, and AUGMECON2 — designed for integrated circularity and sustainability assessment and trade-off analysis.
+A modular pipeline for BBWM, PROMETHEE-II, AHP, and AUGMECON2 — designed for integrated circularity and sustainability assessment and trade-off analysis.
 
 ## 📦 Overview
 

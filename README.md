@@ -29,3 +29,6 @@ This repository provides a unified workflow for multi-criteria decision analysis
 
 ## 📦 Funding
 Integrated Circularity and Sustainability Assessment of Manufacturing Systems is carried out within the framework of the National Recovery and Resilience Plan Greece 2.0, funded by the European Union – NextGenerationEU (Implementation body: HFRI | Project Number: 16148).
+
+## 📦 Reference
+E. Aretoulaki, A. Rentizelas, K. Florios, E. Simos, (2026). A Comprehensive Framework for Circular Economy, Environmental, and Social Sustainability Indicators in Manufacturing. Circular Economy and Sustainability (Springer), In Press.

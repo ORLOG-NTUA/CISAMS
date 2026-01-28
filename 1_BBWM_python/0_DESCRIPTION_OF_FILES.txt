@@ -1,0 +1,45 @@
+
+1) Excel files raw inputs
+
+BWM_Circularity_9_categories.xlsx
+BWM_Environmental_9_categories.xlsx
+BWM_Social_7_categories.xlsx
+
+2) Excel files from postprocessing
+
+BWM_Circularity_9_results_weights_revised_paper.xlsx
+BWM_Environmental_9_results_weights_revised_paper.xlsx
+BWM_Social_7_results_weights_revised_paper.xlsx
+
+3) Txt files inputs for python code
+
+check_CIRCULARITY_Market_rev.txt   --> contains a 1 if DM consistent, 0 else
+check_ENVIRONMENTAL_Market_rev.txt --> similar
+check_SOCIAL_Market_rev.txt        --> similar
+data_CIRCULARITY_Market_A_B.txt    --> raw data from questionnaires, Best-to-Others
+data_CIRCULARITY_Market_A_W.txt    --> raw data from questionnaires, Others-to-Worst
+data_ENVIRONMENTAL_Market_A_B.txt  --> similar, but for ENV
+data_ENVIRONMENTAL_Market_A_W.txt  --> similar, but for ENV
+data_SOCIAL_Market_A_B.txt         --> similar, but for SOC
+data_SOCIAL_Market_A_W.txt         --> similar, but for SOC
+
+
+4) Python code
+
+test_CIRCULARITY_Market_rev3.py
+test_ENVIRONMENTAL_Market_rev3.py
+test_SOCIAL_Market_rev3.py
+
+5) JPEG files for paper
+
+Circularity_1f.jpeg
+Environmental_1f.jpeg
+Social_1f.jpeg
+
+6) AUXILIARY python files
+
+test_model.py
+test_modules.py
+
+
+Run python code in 4) in Ubuntu (WSL2) at an environement where pyjags is installed.
